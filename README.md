@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+Nov. 20, 2018
 
 ### Student Name:  
-(First and Last Name)
+Taylor Falcone
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This program will display three images, rotating to the left when pushing the left arrow button, and to the right when pushing the right arrow button. The show more images button will preview five images instead of three.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/taylorfalcone/lesson6_javascript3
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Learned how to use BOM and DOM statements in a program.
+2. Learned how to shift from 3 images to 5 images.
+3. Learned how to attach event listeners.
 
